@@ -1,6 +1,6 @@
 # weatherapp
 
-A new Flutter application.
+A new Flutter application which shows weather.
 
 ## Getting Started
 
